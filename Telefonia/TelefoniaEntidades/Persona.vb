@@ -1,4 +1,5 @@
 ﻿Public Class Persona
+    Inherits Cliente
     'campos
     Private _apellido As String
     Private _nombre As String
@@ -6,6 +7,7 @@
 
     'constructor
     Sub New()
+        MyBase.New()
         _apellido = ""
         _nombre = ""
         _documento = 0

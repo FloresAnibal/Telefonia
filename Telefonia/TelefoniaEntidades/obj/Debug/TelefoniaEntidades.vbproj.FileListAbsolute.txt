@@ -7,3 +7,12 @@ C:\Users\Anibal\Documents\Visual Studio 2015\Projects\C++\Telefonia\TelefoniaEnt
 C:\Users\Anibal\Documents\Visual Studio 2015\Projects\C++\Telefonia\TelefoniaEntidades\obj\Debug\TelefoniaEntidades.dll
 C:\Users\Anibal\Documents\Visual Studio 2015\Projects\C++\Telefonia\TelefoniaEntidades\obj\Debug\TelefoniaEntidades.xml
 C:\Users\Anibal\Documents\Visual Studio 2015\Projects\C++\Telefonia\TelefoniaEntidades\obj\Debug\TelefoniaEntidades.pdb
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\Visual\POO\Telefonia\TelefoniaEntidades\bin\Debug\TelefoniaEntidades.dll
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\Visual\POO\Telefonia\TelefoniaEntidades\bin\Debug\TelefoniaEntidades.pdb
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\Visual\POO\Telefonia\TelefoniaEntidades\bin\Debug\TelefoniaEntidades.xml
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\Visual\POO\Telefonia\TelefoniaEntidades\obj\Debug\TelefoniaEntidades.vbprojResolveAssemblyReference.cache
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\Visual\POO\Telefonia\TelefoniaEntidades\obj\Debug\TelefoniaEntidades.Resources.resources
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\Visual\POO\Telefonia\TelefoniaEntidades\obj\Debug\TelefoniaEntidades.vbproj.GenerateResource.Cache
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\Visual\POO\Telefonia\TelefoniaEntidades\obj\Debug\TelefoniaEntidades.dll
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\Visual\POO\Telefonia\TelefoniaEntidades\obj\Debug\TelefoniaEntidades.xml
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\Visual\POO\Telefonia\TelefoniaEntidades\obj\Debug\TelefoniaEntidades.pdb

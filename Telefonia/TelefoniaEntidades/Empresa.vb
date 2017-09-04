@@ -1,10 +1,12 @@
 ﻿Public Class Empresa
+    Inherits Cliente
     'campos
     Private _razonSocial As String
     Private _cuit As String
 
     'constructor
     Sub New()
+        MyBase.New()
         _razonSocial = ""
         _cuit = ""
     End Sub

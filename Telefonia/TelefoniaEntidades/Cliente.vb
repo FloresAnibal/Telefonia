@@ -1,5 +1,4 @@
 ﻿Public Class Cliente
-
     'campos
     Private _id As Integer
 
