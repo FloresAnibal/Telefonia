@@ -7,17 +7,14 @@
 
     'constructor
     Sub New()
-        _credito = 0
-        _nombre = ""
-        _precio = 0.0
-        _consumo = 0
+        Me.New(0, "", 0.0)
     End Sub
 
     Sub New(credito As UInt32, nombre As String, precio As Single)
-        Me.New()
         Me.Credito = credito
         Me.Nombre = nombre
         Me.Precio = precio
+        _consumo = 0
     End Sub
     'propiedades
     Public Property Credito As UInt32
@@ -61,4 +58,5 @@
         End If
         Return False
     End Function
+
 End Class
